@@ -146,7 +146,10 @@ wrapt==1.17.2
 yarl==1.18.3
 zipp==3.21.0
 zstandard==0.23.0
-streamlit
-langchain
-python-dotenv
-openai
+streamlit==1.41.1
+openai==1.47.0
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-openai==0.2.0
+python-dotenv==1.0.1
+python-3.11
